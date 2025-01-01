@@ -1,14 +1,8 @@
 import chalk from 'chalk';
 
 const art = `
-   ███████╗██╗     ██╗  ██╗     ██████╗██╗   ██╗██████╗ ███████╗██████╗ 
-   ╚══███╔╝██║     ██║ ██╔╝    ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-     ███╔╝ ██║     █████╔╝     ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-    ███╔╝  ██║     ██╔═██╗     ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-   ███████╗███████╗██║  ██╗    ╚██████╗   ██║   ██████╔╝███████╗██║  ██║
-   ╚══════╝╚══════╝╚═╝  ╚═╝     ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
-                    Running Oasis Ai BETA CLI Version                
-                t.me/zlkcybergroup *** github.com/zlkcyber                   
+   Running Oasis Ai BETA CLI Version                
+                t.me/forestarmy *** github.com/ytforestarmy                   
 `;
 
 export function centerText(text) {
